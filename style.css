@@ -27,6 +27,13 @@ header {
   border-bottom-left-radius: 50px;
   border-bottom-right-radius: 50px;
 }
+:root{
+  --primary: #2563eb;
+  --secondary: #1e40af;
+  --dark: #0f172a;
+  --light: #f8fafc;
+  --accent: #38bdf8;
+}
 
 header .profile img {
   width: 150px;
